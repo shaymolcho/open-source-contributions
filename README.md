@@ -1,6 +1,3 @@
-# open-source-contributions
-merged open-source contributions
-
 # Open Source Contributions - Shay Molcho
 
 This page provides proof of selected open-source contributions
@@ -25,6 +22,9 @@ with merged pull requests.
 
 - **supabase**  
   (https://github.com/supabase/supabase/pull/33040)
+
+ - **microsoft-ui-xaml**  
+  https://github.com/microsoft/microsoft-ui-xaml/pull/10318
 
 
 ## Notes
