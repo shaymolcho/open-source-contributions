@@ -9,22 +9,22 @@ with merged pull requests.
 ## Highlighted Merged PRs
 
 - **node-semver**  
-  [https://github.com/npm/node-semver/pull/XXXX](https://github.com/npm/node-semver/pull/756)
+  (https://github.com/npm/node-semver/pull/756)
 
 - **axios**  
- [ https://github.com/axios/axios/pull/XXXX](https://github.com/npm/node-semver/pull/756)
+ https://github.com/axios/axios/pull/6770
 
 - **create-react-app**  
-  [https://github.com/electron/electron/pull/XXXX](https://github.com/shaymolcho/create-react-app/pull/1)
+  (https://github.com/shaymolcho/create-react-app/pull/1)
 
 - **electron**  
-  [https://github.com/electron/electron/pull/XXXX](https://github.com/electron/electron/pull/45333)
+  (https://github.com/electron/electron/pull/45333)
 
 - **three.js**  
-  [https://github.com/electron/electron/pull/XXXX](https://github.com/mrdoob/three.js/pull/30389)
+ (https://github.com/mrdoob/three.js/pull/30389)
 
 - **supabase**  
-  [https://github.com/electron/electron/pull/XXXX](https://github.com/supabase/supabase/pull/33040)
+  (https://github.com/supabase/supabase/pull/33040)
 
 
 ## Notes
