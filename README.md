@@ -1,7 +1,6 @@
 # Open Source Contributions - Shay Molcho
 
-This page provides proof of selected open-source contributions
-with merged pull requests.
+This page highlights a selection of my most significant and impactful open-source contributions, with links to merged pull requests.
 
 ## Highlighted Merged PRs
 
