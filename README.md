@@ -17,13 +17,13 @@ with merged pull requests.
 - **create-react-app**  
   [https://github.com/electron/electron/pull/XXXX](https://github.com/shaymolcho/create-react-app/pull/1)
 
-  - **electron**  
+- **electron**  
   [https://github.com/electron/electron/pull/XXXX](https://github.com/electron/electron/pull/45333)
 
 - **three.js**  
   [https://github.com/electron/electron/pull/XXXX](https://github.com/mrdoob/three.js/pull/30389)
 
-  - **supabase**  
+- **supabase**  
   [https://github.com/electron/electron/pull/XXXX](https://github.com/supabase/supabase/pull/33040)
 
 
